@@ -4,6 +4,12 @@ import GetSeasonDataArr from './Data';
 
 
 function SeasonsList() {
+    var SeasonsStyle =() => {
+        return {
+           
+        }
+    }
+
   return (
     <div>
       
